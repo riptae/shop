@@ -1,6 +1,5 @@
-package com.shop.Repository;
+package com.shop.repository;
 
-import static org.junit.jupiter.api.Assertions.*;
 import com.shop.constant.ItemSellStatus;
 import com.shop.entity.Item;
 import org.junit.jupiter.api.DisplayName;
